@@ -65,7 +65,7 @@
  "index_web_pages_for_search": 1,
  "is_submittable": 1,
  "links": [],
- "modified": "2026-02-09 16:53:37.697191",
+ "modified": "2026-02-10 17:02:10.937390",
  "modified_by": "Administrator",
  "module": "Papa Management",
  "name": "Loan",
@@ -84,6 +84,27 @@
    "share": 1,
    "submit": 1,
    "write": 1
+  },
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "Librarian",
+   "share": 1,
+   "write": 1
+  },
+  {
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "Library Member",
+   "share": 1
   }
  ],
  "row_format": "Dynamic",
